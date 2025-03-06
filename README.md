@@ -1,5 +1,5 @@
 # Building an AI-Powered Workflow Automation Agent on Google Cloud
-![AI Workflow Agent Vertex AI](images/image.png)
+![AI Workflow Agent Vertex AI](image.png)
 
 ## Introduction
 
@@ -58,7 +58,7 @@ By the end of this tutorial, you’ll have a working AI-powered agent that autom
 ---
 
 ## Building the AI Agent
-![interacting with code](images\image2.png)
+![interacting with code](image2.png)
 
 ### Step 1: Install Dependencies
 
